@@ -14,3 +14,9 @@ The store wants to create a sales dashboard for the period from January 2023 to 
 -	Total revenue generated from each product that’s being sold
 -	Total revenue generated and the total sum of boxes of products that have been sold.
 -	Dashboard interaction -<a href=https://github.com/Kanissma/Chocolate-sales-dashboard/blob/main/Chocolate%20sales%20dashboard.pdf>View Dashboard</a>
+
+## Process
+-	Verify data for missing values and sort out the same to make sure the data available is consistent, and check on the data type and format all the data entries to the corresponding data types.
+-	Import the available Excel sheet into Microsoft Power BI and load the data. 
+-	Build the required charts as per the questions mentioned above.
+-	Add a slicer for time period to filter on a particular date, and a slicer for order status to filter on the completed orders, or in progress orders particularly.
