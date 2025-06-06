@@ -20,3 +20,6 @@ The store wants to create a sales dashboard for the period from January 2023 to 
 -	Import the available Excel sheet into Microsoft Power BI and load the data. 
 -	Build the required charts as per the questions mentioned above.
 -	Add a slicer for time period to filter on a particular date, and a slicer for order status to filter on the completed orders, or in progress orders particularly.
+
+## Dashborad
+![Chocolate sales dashborad](https://github.com/user-attachments/assets/367a1004-ebfb-409f-ae57-bef64c1f121d)
