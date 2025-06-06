@@ -23,3 +23,13 @@ The store wants to create a sales dashboard for the period from January 2023 to 
 
 ## Dashborad
 ![Chocolate sales dashborad](https://github.com/user-attachments/assets/367a1004-ebfb-409f-ae57-bef64c1f121d)
+
+## Insights
+-	In 2023, there is an increase in sales in Q2 and Q3 of the year, which aided the maximum revenue (more than 4M$ in each quarter).  In contrast, 2024 started off with good sales for the maximum revenue as of now of the year, and there is a sales downfall in the Q2 and Q3 of the year.
+-	The maximum number of customers is from the UK (~27%), followed by the USA. Bot Both countries in total cover approximately half of the sales.
+-	In view of products, Orange Choco is been the top-selling in multiple countries (USA, India, and Australia), hence being the most sold product.
+-	Brien Boise is the top performer with an extraordinary performance during 2023 Q3. 
+
+## Final Conclusion
+To increase sales, the marketing strategy plan has to be implemented in the UK and the USA, as they are high consumers. Also, in other countries, advertising can be increased to increase sales. Also, approximately 5% of the orders has been cancelled. We could also focus on the reason for the cancellation and work on it to improve.
+
